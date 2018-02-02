@@ -1,11 +1,10 @@
 {
-    "name": "vnnox/vnnoxDataVerification",
+    "name": "kinddylee/DataVerification",
     "description": "RESTful API design and Verification",
-    "homepage": "http://www.vnnox.com/",
     "keywords": ["RESTful", "API", "Design", "Verification", "validate"],
     "authors": [
         {
-            "name": "VNNOX TEAM",
+            "name": "kinddylee",
             "email": "kinddylee@gmail.com"
         }
     ],
