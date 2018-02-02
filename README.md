@@ -296,23 +296,11 @@ $validate->setDataCriterion( $apiDefined )->check( $requestData );
 
     
 ### 安装本组件至项目(Composer)
-- 在你的项目的composer.json中加入资源地址
-
-```json
-{
-    "repositories": [
-            {
-                "type": "vcs",
-                "url": "git@172.16.80.102:vnnox/vnnoxDataVerification.git"
-            }
-        ]
-}
-```
 
 - 执行composer require命令
 
 ```bash
- composer require vnnox/vnnoxdataverification
+ composer require kinddylee/Dataverification
 ```
 
 ### 协助开发本组件
