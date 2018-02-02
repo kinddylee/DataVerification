@@ -1,0 +1,21 @@
+{
+    "name": "vnnox/vnnoxDataVerification",
+    "description": "RESTful API design and Verification",
+    "homepage": "http://www.vnnox.com/",
+    "keywords": ["RESTful", "API", "Design", "Verification", "validate"],
+    "authors": [
+        {
+            "name": "VNNOX TEAM",
+            "email": "kinddylee@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "DataVerification\\":"DataVerification",
+            "Tests\\":"Tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5"
+    }
+}
