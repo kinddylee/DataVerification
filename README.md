@@ -300,7 +300,7 @@ $validate->setDataCriterion( $apiDefined )->check( $requestData );
 - 执行composer require命令
 
 ```bash
- composer require kinddylee/Dataverification
+composer require kinddylee/data-verification
 ```
 
 ### 协助开发本组件
